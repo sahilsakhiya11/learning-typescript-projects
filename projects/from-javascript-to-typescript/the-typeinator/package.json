@@ -4,5 +4,8 @@
 		"test": "jest",
 		"test:solutions": "cross-env TEST_SOLUTIONS=1 jest",
 		"tsc": "exit 0"
+	},
+	"dependencies": {
+		"jest-cli": "^29.7.0"
 	}
 }
